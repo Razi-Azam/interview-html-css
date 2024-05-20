@@ -11,6 +11,9 @@
 - [Q4. How to create a nested webpage in HTML?](#create-a-nested-webpage-in-html)
 
 
+- [Q5. What are the new HTML5 elements?](#new-html5-elements)
+
+- [Q6. What is Cell Spacing and Cell Padding?](#cell-spacing-and-cell-padding)
 
 
 ---
@@ -73,3 +76,22 @@ The whole thing is an HTML image element.
 <embed src=”https://www.myWebsite.abc” type=”text/html” />
 ```
 
+## New HTML5 Elements
+[Topics](#topics)
+
+- The following are the new HTML5 Elements.
+```
+<article>, <aside>, <header>, <footer>, <audio>, <video>, <datalist>, <details>, <embed>, <figure>, <hgroup>, <mark> For highlighting the text</mark>, <meter>,<nav>, <output>, <progress>, <time>
+```
+- The ```<canvas>``` tag is used to draw the graphics on the web page with the help of JavaScript. It does not have border and text.
+
+
+## Cell Spacing and Cell Padding
+[Topics](#topics)
+
+- Cell spacing: Space between the cells. (Space outside the cell)
+- Cell Padding: Space between the cell border and the content. (Space inside the cell)
+For example,
+```html
+<table border=”2” cellspacing=”4” cellpadding=”6” > </table>
+```
