@@ -35,7 +35,7 @@
 ## Difference between HTML elements and tags
 [Topics](#topics)
 
-| HTML elementa | HTML Tags |
+| HTML Tags | HTML Elements |
 | ------------- | --------- |
 | These are the starting and ending parts of the HTML elements.  | These are the combinations of the starting tag, the content, and the ending tag. |
 | Or these are the building blocks of an HTML element. | Or these are the building blocks of the HTML document. |
@@ -95,3 +95,7 @@ For example,
 ```html
 <table border=”2” cellspacing=”4” cellpadding=”6” > </table>
 ```
+
+
+## Cell Spacing and Cell Padding
+[Topics](#topics)
